@@ -1,5 +1,3 @@
-package stuff;
-
 public class PalindromeCounter
 {
 
